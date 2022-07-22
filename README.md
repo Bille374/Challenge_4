@@ -1,4 +1,4 @@
-(https://courses.bootcampspot.com/courses/1571/files/1748936/download)
+![image](https://user-images.githubusercontent.com/69637182/180579574-38d30c7e-2fb9-46a0-8a46-d7485fd46ce8.png)
 Background
 You have been investing in algorithmic trading strategies. Some of the investment managers love them, some hate them, but they all think their way is best.
 
@@ -41,7 +41,7 @@ The whale portfolios and algorithmic portfolio CSV files contain daily returns, 
 Join Whale Returns, Algorithmic Returns, and the S&P 500 Returns into a single DataFrame with columns for each portfolio's returns.
 
 returns-dataframe.png
-https://courses.bootcampspot.com/courses/1571/files/1748916/download
+![image](https://user-images.githubusercontent.com/69637182/180579577-dba351c8-5bac-491e-b661-5c1633711628.png)
 Perform Quantitative Analysis
 Analyze the data to determine if any of the portfolios outperform the stock market (that is, the S&P 500). Specifically, you will do a performance analysis and a risk analysis, and then calculate rolling statistics and Sharpe ratios.
 
